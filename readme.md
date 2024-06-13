@@ -1,5 +1,4 @@
-# Android-History-Project
-Esse é o projeto que fiz a partir do exemplo do curso de HTML e CSS do Curso em Vídeo.
-Um site com o poema Cordel Moderno de Milton Duarte.
+# Projeto-Cordel-Moderno
+Esse é um projeto que fiz a partir do exemplo do curso de HTML5 e CSS3 do Curso em Vídeo, um site com o poema Cordel Moderno de Milton Duarte.
 
-<a href= "https://ivcodingstuff.github.io/Android-History-Project/d010/index.html">Executar o site</a>
+<a href= "https://ivcodingstuff.github.io/Projeto-Cordel-Moderno/">Executar o site</a>
